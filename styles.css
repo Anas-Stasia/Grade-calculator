@@ -1,1 +1,16 @@
+#gradeForm {
+  margin-bottom: 20px;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+#score {
+  padding: 8px;
+  font-size: 16px;
+  width: 100px;
+  margin-right: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+
+} 
 
